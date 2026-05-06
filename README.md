@@ -2,7 +2,7 @@
 
 **B.Tech Computer Science Graduate | Fresher Developer | AI & ML Enthusiast**
 
-Welcome to my GitHub! I'm a passionate fresher developer with a strong foundation in **Web Development**. I love building intelligent applications that solve real-world problems and exploring the intersections of AI and practical software development.
+Welcome to my GitHub! I'm a passionate fresher developer with a strong foundation in Web Development. I love building intelligent applications that solve real-world problems and exploring the intersections of AI and practical **software development**.
 
 ---
 
@@ -81,7 +81,7 @@ A comprehensive rental platform connecting farmers with harvester owners, simpli
 - 🏆 **Certifications:**
   - Java Programming
   - Artificial Intelligence-Machine Learning & Data Science
-  - Generative AI Cetificte
+  - Generative AI Cetificate
 
 ---
 
