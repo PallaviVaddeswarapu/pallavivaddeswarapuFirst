@@ -2,7 +2,7 @@
 
 **B.Tech Computer Science Graduate | Fresher Developer | AI & ML Enthusiast**
 
-Welcome to my GitHub! I'm a passionate fresher developer with a strong foundation in **Web Development** and **Machine Learning**. I love building intelligent applications that solve real-world problems and exploring the intersections of AI and practical software development.
+Welcome to my GitHub! I'm a passionate fresher developer with a strong foundation in **Web Development**. I love building intelligent applications that solve real-world problems and exploring the intersections of AI and practical software development.
 
 ---
 
@@ -25,7 +25,6 @@ I'm a dedicated learner and developer with hands-on experience in building full-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 - **Streamlit** – Interactive UI development
@@ -70,7 +69,7 @@ A comprehensive rental platform connecting farmers with harvester owners, simpli
 - 🎨 Responsive frontend with HTML & CSS
 - 💾 Reliable backend with Python and SQL
 
-**Tech Stack:** HTML, CSS, Python, SQL, Database Design
+**Tech Stack:** HTML, Python, SQL, CSS
 
 **What I Learned:** Full-stack development fundamentals, database design, user authentication, business logic implementation
 
@@ -81,15 +80,14 @@ A comprehensive rental platform connecting farmers with harvester owners, simpli
 - 🎓 **B.Tech in Computer Science**
 - 🏆 **Certifications:**
   - Java Programming
-  - Artificial Intelligence
-  - Machine Learning & Data Science
+  - Artificial Intelligence-Machine Learning & Data Science
+  - Generative AI Cetificte
 
 ---
 
 ## 🌱 Currently Learning & Exploring
 
 - 🤖 **Generative AI** – Exploring LLMs, prompt engineering, and fine-tuning
-- 🧠 **Advanced Machine Learning** – Deep dive into neural networks and computer vision
 
 ---
 
